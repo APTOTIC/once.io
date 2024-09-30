@@ -97,6 +97,6 @@ input[type="text"] {
 }
 
 .logo {
-    max-width: 15%; /* Adjust to ensure it fits within the container */
+    max-width: 10%; /* Adjust to ensure it fits within the container */
     height: auto; /* Maintain aspect ratio */
 }
