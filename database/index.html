@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Criminal Database</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Logo at the Top Center -->
+    <div class="logo-container">
+        <img src="images/Logo.png" alt="Logo" class="logo">
+    </div>
+
+    <div class="container">
+        <!-- Left Panel: Criminal Information -->
+        <div class="left-panel">
+            <div class="details" id="criminal-details">
+                <!-- Criminal details will be dynamically loaded here -->
+            </div>
+        </div>
+
+        <!-- Right Panel: Criminal Photo -->
+        <div class="right-panel">
+            <div class="photo">
+                <img id="criminal-photo" src="images/default-photo.jpg" alt="Criminal Photo">
+            </div>
+        </div>
+    </div>
+
+    <!-- Full Bottom Panel: PDF List and Search -->
+    <div class="bottom-panel">
+        <div class="search-bar">
+            <input type="text" id="search" placeholder="Search PDFs by tags..." onkeyup="searchPDFs()">
+        </div>
+        <div id="pdf-container" class="pdf-container">
+            <!-- PDF list will be dynamically loaded here -->
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
