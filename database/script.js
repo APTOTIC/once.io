@@ -27,15 +27,15 @@ const pdfData = [
 	
 	//Sabastian Harris 0001
 	 {
-        title: "Criminal Record - Sabastian Harris",
-        tags: "crime 0001 sabastian harris director",
-        file: "pdfs/sabastian-harris.pdf",
+        title: "Criminal Record - Brian Williams",
+        tags: "crime brian williams negligence animal cruelty ",
+        file: "pdfs/Brian-Williams.pdf",
         details: {
-            name: "Sabastian M Harris",
-            crime: "Obstruction of Justice, Probation Violation, Improper use of Hand Signals",
-            badgeNumber: "0001",
+            name: "Brian Williams",
+            crime: "Sec-5 8th Amend, ",
+            badgeNumber: "Unknown",
             rank: "Director",
-            photo: "images/Sabastian-Harris.jpg"
+            photo: "images/Brian-Williams.JPG"
         }
     },
 	//Michael Palazzo 0002
