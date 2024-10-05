@@ -25,16 +25,16 @@ const pdfData = [
         }
     },
 	
-	//Sabastian Harris 0001
+	//Brian Williams 0001
 	 {
         title: "Criminal Record - Brian Williams",
         tags: "crime brian williams negligence animal cruelty ",
         file: "pdfs/Brian-Williams.pdf",
         details: {
             name: "Brian Williams",
-            crime: "Sec-5 8th Amend, ",
+            crime: "Sec-5 8th Amend-Animal, Unreasonable Use of a Firearm, Criminal Mistief",
             badgeNumber: "Unknown",
-            rank: "Director",
+            rank: "Deputy",
             photo: "images/Brian-Williams.JPG"
         }
     },
