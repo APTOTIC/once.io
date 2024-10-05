@@ -3,7 +3,7 @@ const pdfData = [
 // Greg Marohn   
  {
         title: "Criminal Record - Greg Marohn",
-        tags: "Greg Marohn michigan drugs rasist Drug Possession Official Misconduct Falsification of Records Obstruction of Justice Public Corruption",
+        tags: "Greg Marohn michigan drugs racist Drug Possession Official Misconduct Falsification of Records Obstruction of Justice Public Corruption",
         file: "pdfs/Greg-Marohn.pdf",
         details: {
             name: "Greg Marohn",
@@ -39,17 +39,17 @@ const pdfData = [
             photo: "images/Brian-Williams.JPG"
         }
     },
-	//Michael Palazzo 0002
+	//Derek Chauvin
 	{
-        title: "Criminal Record - Michael Palazzo",
-        tags: "crime michael palazzo 0002",
-        file: "pdfs/sabastian-harris.pdf",
+        title: "Criminal Record - Derek Chauvin",
+        tags: "Derek-Chauvin Derek Chauvin murder racist Police Misconduct Excessive Force Murder Minneapolis George Floyd Civil Rights Violations Racism Use of Force",
+        file: "pdfs/Derek-Chauvin.pdf",
         details: {
-            name: "Michael Palazzo",
-            crime: "None",
-            badgeNumber: "0002",
-            rank: "Officer",
-            photo: "images/michael-palazzo.jpg"
+            name: "Derek Chauvin",
+            crime: "Second-Degree Murder (Unintentional), Third-Degree Murder, Second-Degree, Manslaughter, Federal Civil Rights Violations, Excessive Use of Force, Police Misconduct, Negligence in Duty, Abuse of Power, Assault",
+            badgeNumber: "Unknown",
+            rank: "Police Officer",
+            photo: "images/Derek-Chauvin.jpg"
         }
     },
 	
