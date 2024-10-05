@@ -1,15 +1,16 @@
 // Sample data for criminals and PDFs
 const pdfData = [
-    {
-        title: "Criminal Record - John Doe",
-        tags: "crime theft john-doe",
-        file: "pdfs/theft.pdf",
+// Greg Marohn   
+ {
+        title: "Criminal Record - Greg Marohn",
+        tags: "Greg Marohn michigan drugs rasist Drug Possession Official Misconduct Falsification of Records Obstruction of Justice Public Corruption",
+        file: "pdfs/Greg-Marohn.pdf",
         details: {
-            name: "John Doe",
-            crime: "Theft",
-            badgeNumber: "123456",
-            rank: "Officer",
-            photo: "images/john-doe.jpg"
+            name: "Greg Marohn",
+            crime: "Drug Possession, Official Misconduct, Falsification of Records, Obstruction of Justice, Public Corruption",
+            badgeNumber: "Unknown",
+            rank: "SGT",
+            photo: "images/Greg-Marohn.jpg"
         }
     },
     {
@@ -28,7 +29,7 @@ const pdfData = [
 	//Brian Williams 0001
 	 {
         title: "Criminal Record - Brian Williams",
-        tags: "crime brian williams negligence animal cruelty ",
+        tags: "crime brian williams negligence animal cruelty gun dog ",
         file: "pdfs/Brian-Williams.pdf",
         details: {
             name: "Brian Williams",
